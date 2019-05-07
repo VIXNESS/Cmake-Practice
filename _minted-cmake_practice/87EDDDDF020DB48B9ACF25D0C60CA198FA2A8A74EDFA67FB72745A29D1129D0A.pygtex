@@ -1,0 +1,3 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{err}{SRC\PYGZus{}LIST|} \PYG{err}{中} \PYG{err}{定义的源文件列表，} \PYG{err}{本例中你也可以直接写成} \PYG{err}{\PYGZbs{}mint\PYGZob{}cmake\PYGZcb{}|}\PYG{n+nb}{ADD\PYGZus{}EXECUTABLE}\PYG{p}{(}\PYG{l+s}{hello} \PYG{l+s}{main.c}\PYG{p}{)}\PYG{err}{|。\PYGZbs{}\PYGZbs{}} \PYG{err}{在本例我们使用了\PYGZbs{}mintinline\PYGZob{}cmake\PYGZcb{}}
+\end{Verbatim}

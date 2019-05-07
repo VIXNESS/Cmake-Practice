@@ -1,0 +1,3 @@
+\begin{Verbatim}[commandchars=\\\{\},codes={\catcode`\$=3\catcode`\^=7\catcode`\_=8}]
+\PYG{n+nb}{T}\PYG{p}{(}\PYG{l+s}{VAR} \PYG{l+s}{[VALUE]} \PYG{l+s}{[CACHE} \PYG{l+s}{TYPE} \PYG{l+s}{DOCSTRING} \PYG{l+s}{[FORCE]]}\PYG{p}{)}
+\end{Verbatim}

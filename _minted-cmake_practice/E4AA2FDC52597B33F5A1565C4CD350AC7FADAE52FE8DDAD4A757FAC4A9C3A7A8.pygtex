@@ -1,0 +1,3 @@
+\begin{Verbatim}[commandchars=\\\{\},codes={\catcode`\$=3\catcode`\^=7\catcode`\_=8}]
+\PYG{n+nb}{MESSAGE}\PYG{p}{(}\PYG{l+s}{[SEND\PYGZus{}ERROR} \PYG{l+s}{|} \PYG{l+s}{STATUS} \PYG{l+s}{|} \PYG{l+s}{FATAL\PYGZus{}ERROR]} \PYG{l+s+s2}{\PYGZdq{}message to display\PYGZdq{}} \PYG{l+s}{...}\PYG{p}{)}
+\end{Verbatim}

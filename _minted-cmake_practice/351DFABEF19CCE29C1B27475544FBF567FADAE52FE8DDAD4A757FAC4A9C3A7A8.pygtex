@@ -1,0 +1,7 @@
+\begin{Verbatim}[commandchars=\\\{\},codes={\catcode`\$=3\catcode`\^=7\catcode`\_=8}]
+\PYG{n+nb}{PROJECT} \PYG{p}{(}\PYG{l+s}{HELLO}\PYG{p}{)}
+\PYG{n+nb}{SET}\PYG{p}{(}\PYG{l+s}{SRC\PYGZus{}LIST} \PYG{l+s}{main.cpp}\PYG{p}{)}
+\PYG{n+nb}{MESSAGE}\PYG{p}{(}\PYG{l+s}{STATUS} \PYG{l+s+s2}{\PYGZdq{}This is BINARY dir \PYGZdq{}} \PYG{o}{\PYGZdl{}\PYGZob{}}\PYG{n+nv}{HELLO\PYGZus{}BINARY\PYGZus{}DIR}\PYG{o}{\PYGZcb{}}\PYG{p}{)}
+\PYG{n+nb}{MESSAGE}\PYG{p}{(}\PYG{l+s}{STATUS} \PYG{l+s+s2}{\PYGZdq{}This is SOURCE dir \PYGZdq{}}\PYG{o}{\PYGZdl{}\PYGZob{}}\PYG{n+nv}{HELLO\PYGZus{}SOURCE\PYGZus{}DIR}\PYG{o}{\PYGZcb{}}\PYG{p}{)}
+\PYG{n+nb}{ADD\PYGZus{}EXECUTABLE}\PYG{p}{(}\PYG{l+s}{hello} \PYG{o}{\PYGZdl{}\PYGZob{}}\PYG{n+nv}{SRC\PYGZus{}LIST}\PYG{o}{\PYGZcb{}}\PYG{p}{)}
+\end{Verbatim}

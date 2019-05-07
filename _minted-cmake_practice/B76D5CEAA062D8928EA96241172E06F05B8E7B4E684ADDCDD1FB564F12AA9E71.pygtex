@@ -1,0 +1,3 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{x}{MESSAGE([SEND\PYGZus{}ERROR | STATUS | FATAL\PYGZus{}ERROR] \PYGZdq{}message to display\PYGZdq{} ...)}
+\end{Verbatim}

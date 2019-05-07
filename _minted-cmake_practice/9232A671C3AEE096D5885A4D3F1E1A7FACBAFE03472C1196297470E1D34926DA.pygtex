@@ -1,0 +1,5 @@
+\begin{Verbatim}[commandchars=\\\{\},codes={\catcode`\$=3\catcode`\^=7\catcode`\_=8}]
+Scanning dependencies of target hello
+\PYG{o}{[}\PYG{l+m}{100}\PYGZpc{}\PYG{o}{]} Building C object CMakeFiles/hello.dir/main.o Linking C executable hello
+\PYG{o}{[}\PYG{l+m}{100}\PYGZpc{}\PYG{o}{]} Built target hello
+\end{Verbatim}

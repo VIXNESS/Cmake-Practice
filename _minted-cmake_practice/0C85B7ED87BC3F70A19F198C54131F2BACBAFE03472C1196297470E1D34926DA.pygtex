@@ -1,0 +1,5 @@
+\begin{Verbatim}[commandchars=\\\{\},codes={\catcode`\$=3\catcode`\^=7\catcode`\_=8}]
+\PYG{n+nb}{cd} /backup/cmake
+mkdir t1
+\PYG{n+nb}{cd} t1
+\end{Verbatim}

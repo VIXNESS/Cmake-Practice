@@ -1,0 +1,13 @@
+\begin{Verbatim}[commandchars=\\\{\},codes={\catcode`\$=3\catcode`\^=7\catcode`\_=8}]
+\PYGZhy{}\PYGZhy{} Check \PYG{k}{for} working C compiler: /usr/bin/gcc
+\PYGZhy{}\PYGZhy{} Check \PYG{k}{for} working C compiler: /usr/bin/gcc \PYGZhy{}\PYGZhy{} works
+\PYGZhy{}\PYGZhy{} Check size of void*
+\PYGZhy{}\PYGZhy{} Check size of void* \PYGZhy{} \PYG{k}{done}
+\PYGZhy{}\PYGZhy{} Check \PYG{k}{for} working CXX compiler: /usr/bin/c++
+\PYGZhy{}\PYGZhy{} Check \PYG{k}{for} working CXX compiler: /usr/bin/c++ \PYGZhy{}\PYGZhy{} works
+\PYGZhy{}\PYGZhy{} This is BINARY dir /backup/cmake/t1
+\PYGZhy{}\PYGZhy{} This is SOURCE dir /backup/cmake/t1
+\PYGZhy{}\PYGZhy{} Configuring \PYG{k}{done}
+\PYGZhy{}\PYGZhy{} Generating \PYG{k}{done}
+\PYGZhy{}\PYGZhy{} Build files have been written to: /backup/cmake/t1
+\end{Verbatim}
